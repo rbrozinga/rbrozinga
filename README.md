@@ -3,15 +3,21 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
      
 <div align="center">
+<br/>
+<a href="https://github.com/rbrozinga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbrozinga&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://c.tenor.com/KXUBzHRSSM8AAAAC/narutinho.gif"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrozinga&layout=compact&langs_count=7&theme=react"/>
 
-
-
+	
 </div>
 
 <h3 align="center">
 Technologies and Languages </h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+	
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/>
 <p align="center"><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
