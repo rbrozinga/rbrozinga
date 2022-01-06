@@ -6,9 +6,9 @@
 <br/>
 <a href="https://github.com/rbrozinga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbrozinga&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://c.tenor.com/KXUBzHRSSM8AAAAC/narutinho.gif"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrozinga&layout=compact&langs_count=7&theme=react"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrozinga&layout=compact&langs_count=7&theme=react"/>	
+	
+  <img height="120em" src="https://c.tenor.com/KXUBzHRSSM8AAAAC/narutinho.gif"/></a>
 	
 </div>
 
