@@ -4,9 +4,7 @@
      
 <div align="center">
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=rbrozinga&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rbrozinga&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrozinga&theme=tokyonight&layout=compact)
+
 
 </div>
 
