@@ -1,17 +1,29 @@
-<h3 align="center"> Olá, Seja bem-vindo!<br/></h3> 
-      
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-     
-<div align="center">
-<br/>
-<a href="https://github.com/rbrozinga">
-	
- <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=rbrozinga&show_icons=true&theme=dracula " />
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrozinga&layout=dracula" />
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hello I'm   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
+
+<!--
+**Leonardo-Lourenco/Leonardo-Lourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=rbrozinga&show_icons=true&theme=compact " />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrozinga&layout=compact" />
 
 
 	
-	
+<h3 align="center">	
   <img height="120em" src="https://c.tenor.com/KXUBzHRSSM8AAAAC/narutinho.gif"/></a>
 	
 </div>
