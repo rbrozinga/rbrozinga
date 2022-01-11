@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello I'm   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Hello I'm Richard Brozinga   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
 <!--
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 	
 <h3 align="center">	
-  <img height="120em" src="https://c.tenor.com/KXUBzHRSSM8AAAAC/narutinho.gif"/></a>
+  <img height="200em" src="https://c.tenor.com/KXUBzHRSSM8AAAAC/narutinho.gif"/></a>
 	
 </div>
 
