@@ -4,7 +4,7 @@
 
 Me chamo Richard Brozinga, tenho quatro anos de experiência em desenvolvimento Mobile, com foco em clean architecture e boas práticas de desenvolvimento. Habilidades em linguagens como Kotlin, Java e Javascript (Framework React Native), além de experiência na integração de APIs e serviços de backend.
 
-Linkedin: https://www.linkedin.com/in/richard-brozinga-38003715a/
+ <a href="https://www.linkedin.com/in/richard-brozinga-38003715a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
@@ -115,18 +115,12 @@ Linkedin: https://www.linkedin.com/in/richard-brozinga-38003715a/
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rbrozinga&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats-danilo-souza-miguels-projects.vercel.app/api?username=rbrozinga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrozinga&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-danilo-souza-miguels-projects.vercel.app/api/top-langs/?username=rbrozinga&layout=compact&langs_count=7&theme=tokyonight" 
   />
-
 </p>
