@@ -118,7 +118,6 @@ Me chamo Richard Brozinga, tenho quatro anos de experiência em desenvolvimento 
     height="180em" 
     src="https://github-readme-stats-danilo-souza-miguels-projects.vercel.app/api?username=rbrozinga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
-
   <img 
     height="180em" 
     src="https://github-readme-stats-danilo-souza-miguels-projects.vercel.app/api/top-langs/?username=rbrozinga&layout=compact&langs_count=7&theme=tokyonight" 
