@@ -4,6 +4,8 @@
 
 Me chamo Richard Brozinga, tenho quatro anos de experiência em desenvolvimento Mobile, com foco em clean architecture e boas práticas de desenvolvimento. Habilidades em linguagens como Kotlin, Java e Javascript (Framework React Native), além de experiência na integração de APIs e serviços de backend.
 
+Linkedin: https://www.linkedin.com/in/richard-brozinga-38003715a/
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
