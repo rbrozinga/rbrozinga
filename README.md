@@ -1,16 +1,13 @@
+
+
 # 👨🏻‍💻 Richard Brozinga
 
 **`Desenvolvedor Mobile 📱`**
 
-Meu nome é Richard, tenho 29 anos e 4 anos de experiência no desenvolvimento mobile para plataformas Android e iOS. Sou competente em Swift, Kotlin, Java e JavaScript (React Native), com sólida vivência na criação de aplicativos robustos e escaláveis, além de ampla experiência na integração de APIs e serviços backend.
+<br><br>Meu nome é Richard, tenho 29 anos e 4 anos de experiência no desenvolvimento mobile para plataformas Android e iOS. Sou competente em Swift, Kotlin, Java e JavaScript (React Native), com sólida vivência na criação de aplicativos robustos e escaláveis, além de ampla experiência na integração de APIs e serviços backend.<br><br>Tenho forte foco em clean architecture, qualidade de código e boas práticas de desenvolvimento, buscando sempre soluções eficientes, seguras e de fácil manutenção. Sou flexível na forma de trabalhar, capaz de desenvolver aplicativos utilizando diferentes abordagens e tecnologias, de acordo com as necessidades do projeto.<br><br>Gosto de encarar novos desafios, aprender continuamente e evoluir junto com a equipe. Colaboro ativamente com times de Design e Produto, garantindo entregas que unem inovação, usabilidade e alto padrão técnico. Além do lado técnico, prezo por manter um ambiente de trabalho leve, respeitoso e motivador, contribuindo para um clima positivo entre colegas.
 
-Tenho forte foco em clean architecture, qualidade de código e boas práticas de desenvolvimento, buscando sempre soluções eficientes, seguras e de fácil manutenção. Sou flexível na forma de trabalhar, capaz de desenvolver aplicativos utilizando diferentes abordagens e tecnologias, de acordo com as necessidades do projeto.
 
-Gosto de encarar novos desafios, aprender continuamente e evoluir junto com a equipe. Colaboro ativamente com times de Design e Produto, garantindo entregas que unem inovação, usabilidade e alto padrão técnico. Além do lado técnico, prezo por manter um ambiente de trabalho leve, respeitoso e motivador, contribuindo para um clima positivo entre colegas.
-
- <a href="https://www.linkedin.com/in/richard-brozinga-38003715a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
----
+## 🌐 Socials:
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -114,3 +111,13 @@ Gosto de encarar novos desafios, aprender continuamente e evoluir junto com a eq
 
 <br/>
 <br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rbrozinga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rbrozinga&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbrozinga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rbrozinga&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
