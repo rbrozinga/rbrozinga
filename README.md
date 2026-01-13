@@ -1,7 +1,6 @@
 # 👨🏻‍💻 Richard Brozinga
 **`Desenvolvedor Mobile 📱`**
-<br><br>Meu nome é Richard, tenho 29 anos e 4 anos de experiência no desenvolvimento mobile para plataformas Android e iOS. Tenho domínio em Kotlin, Java, Swift e JavaScript (React Native), com vivência na criação de aplicativos robustos e escaláveis, além de ampla experiência na integração de APIs e serviços backend.<br><br>Tenho forte foco em clean architecture, qualidade de código e boas práticas de desenvolvimento, buscando sempre soluções eficientes, seguras e de fácil manutenção. Sou flexível na forma de trabalhar, capaz de desenvolver aplicativos utilizando diferentes abordagens e tecnologias, de acordo com as necessidades do projeto.<br><br>Gosto de encarar novos desafios, aprender continuamente e evoluir junto com a equipe. Colaboro ativamente com times de Design e Produto, garantindo entregas que unem inovação, usabilidade e alto padrão técnico. Além do lado técnico, prezo por manter um ambiente de trabalho leve, respeitoso e motivador, contribuindo para um clima positivo entre colegas.
-
+<br><br>Atuo no desenvolvimento mobile e front-end, trabalhando na criação de aplicações e na integração com APIs e serviços backend.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-brozinga-38003715a/)
